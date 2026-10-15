@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162502265372",
+    "project_id": "dgkhataapp-ca49d",
+    "storage_bucket": "dgkhataapp-ca49d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162502265372:android:356310f3aa9f457211edd9",
+        "android_client_info": {
+          "package_name": "dgkhata.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnj3RZId9D7Oa5o19hiAp2WdIq_-kdzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
